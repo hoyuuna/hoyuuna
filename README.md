@@ -5,13 +5,15 @@
 </p>
 
 <div>
-  <img src="https://i.postimg.cc/qRskkwCB/IMG-20260914-175911.png" align="right" width="35%" />
-  
+  <img src="https://media.tenor.com/30WuE1XLE_QAAAAM/manhattan-cafe-uma.gif" align="right" width="120" />
   <p><strong>A Hanoian at heart</strong></p>
   <p><strong>Hashire hashire Umamusume</strong> and not a fan of working for hire.</p>
   <p>Proud owner of <strong>VNBUSARCHIVE</strong></p>
-  
-  <p>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hoyuuna&layout=donut&langs_count=4&theme=midnight-purple" height="200" />
-  </p>
 </div>
+
+<br clear="all" />
+<br />
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hoyuuna&layout=donut&langs_count=4&theme=midnight-purple" height="200" />
+</p>
