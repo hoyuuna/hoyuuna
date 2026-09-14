@@ -4,18 +4,14 @@
   </a>
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td width="60%" valign="top" style="border: none; padding: 0;">
-      <p><strong>A Hanoian at heart</strong></p>
-      <p><strong>Hashire hashire Umamusume</strong> and not a fan of working for hire.</p>
-      <p>Proud owner of <strong>VNBUSARCHIVE</strong></p>
-      <p>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hoyuuna&layout=donut&langs_count=4&theme=midnight-purple" height="200" />
-      </p>
-    </td>
-    <td width="40%" valign="top" align="center" style="border: none; padding: 0;">
-      <img src="https://i.postimg.cc/qRskkwCB/IMG-20260914-175911.png" width="80%" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://i.postimg.cc/qRskkwCB/IMG-20260914-175911.png" align="right" width="35%" />
+  
+  <p><strong>A Hanoian at heart</strong></p>
+  <p><strong>Hashire hashire Umamusume</strong> and not a fan of working for hire.</p>
+  <p>Proud owner of <strong>VNBUSARCHIVE</strong></p>
+  
+  <p>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hoyuuna&layout=donut&langs_count=4&theme=midnight-purple" height="200" />
+  </p>
+</div>
