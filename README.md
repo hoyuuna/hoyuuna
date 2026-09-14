@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Black&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Hi+I'm+Hoyuuna;And+I+lov+Manhattan+Cafe+%3C3" />
+  </a>
+</p>
 
-<!--
-**hoyuuna/hoyuuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td width="60%" valign="top" style="border: none; padding: 0;">
+      <p><strong>A Hanoian at heart</strong> — born and raised in <strong>Hanoi, Vietnam</strong></p>
+      <p><strong>Hashire hashire Umamusume</strong> and not a fan of working for hire.</p>
+      <p><strong>Proud owner of VNBUSARCHIVE</strong></p>
+      <p>
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=hoyuuna&repo=hoyuuna%2FVNBUSARCHIVE&theme=radical" height="100" />
+      </p>
+    </td>
+    <td width="40%" valign="top" align="center" style="border: none; padding: 0;">
+      <img src="https://i.postimg.cc/qRskkwCB/IMG-20260914-175911.png" width="80%" />
+    </td>
+  </tr>
+</table>
